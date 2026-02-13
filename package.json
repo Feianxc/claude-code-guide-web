@@ -1,0 +1,21 @@
+{
+  "name": "claude-code-guide-web",
+  "version": "1.0.0",
+  "description": "Claude Code 中文教程 - VitePress 网页版",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vitepress-sidebar": "^1.29.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KimYx0207/Claude-Code-Guide-Zh"
+  },
+  "author": "老金",
+  "license": "MIT"
+}
